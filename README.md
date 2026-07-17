@@ -34,7 +34,7 @@ working with lists and organizing code into functions.
 
 1. Clone this repository
 ```bash
-   git clone https://github.com/your-username/todo-list-cli.git
+   git clone https://github.com/shreyasadiga82/todo-list-using-python-.git
 ```
 2. Navigate into the project folder
 ```bash
